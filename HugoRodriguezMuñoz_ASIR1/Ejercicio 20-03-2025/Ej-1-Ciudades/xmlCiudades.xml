@@ -12,6 +12,7 @@ Ejercicio: [XML Básico I]
         <nombre>Nueva Delhi</nombre>
         <pais>India</pais>
     </ciudad>
+    <!--Hago la estructura de la primera ciudad y sigo la estrucutra en las demás-->
     <ciudad continente="Europa">
         <nombre>Lisboa</nombre>
         <pais>Portugal</pais>

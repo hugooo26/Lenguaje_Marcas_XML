@@ -6,6 +6,7 @@ Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
 
+<!-- Ej-4: Empleados-->
 <empleados>
     <empleado>
         <nombre>Ana</nombre>
@@ -14,6 +15,7 @@ Ejercicio: [XML Básico I]
         <departamento>Ventas</departamento>
         <cargo>Ejecutivo de ventas</cargo>
     </empleado>
+    <!--Hago una estructura simple para poner los atributos de cada persona y sigo el modelo en los demás-->
     <empleado>
         <nombre>Luis</nombre>
         <apellido>Rodríguez</apellido>

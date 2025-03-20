@@ -6,6 +6,7 @@ Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
 
+<!-- Ej-2: Hechos-->
 <hechos>
     <hecho descripcion="IBM da a conocer el PC">
         <fecha>
@@ -14,6 +15,7 @@ Ejercicio: [XML Básico I]
             <año>1981</año>
         </fecha>
     </hecho>
+    <!--Estructura del primer hecho, cambio información y hago los siguientes siguiendo el modelo-->
     <hecho descripcion="Se funda Google">
         <fecha>
             <dia>4</dia>

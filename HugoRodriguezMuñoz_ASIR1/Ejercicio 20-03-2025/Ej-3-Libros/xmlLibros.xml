@@ -6,8 +6,10 @@ Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
 
+<!-- Ej-3: Libros-->
 <libros>
     <libro titulo="Como matar a un ruiseñor" autor="Harper Lee" año="1960"/>
     <libro titulo="La Celestina" autor="Fernando de Rojas" año="1499"/>
     <libro titulo="Nada" autor="Carmen Laforet" año="1945"/>
 </libros>
+<!--Sigo una estructura muy básica para poner la información de cada libro-->
