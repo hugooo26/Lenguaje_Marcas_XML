@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 Nombre: [Hugo Rodríguez Muñoz]
 Curso: [1ºASIR]
 Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
-<?xml version="1.0" encoding="UTF-8"?>
+
 <libros>
     <libro titulo="Como matar a un ruiseñor" autor="Harper Lee" año="1960"/>
     <libro titulo="La Celestina" autor="Fernando de Rojas" año="1499"/>
