@@ -13,21 +13,21 @@ Ejercicio: [XML Básico I]
             <mes>8</mes>
             <año>1981</año>
         </fecha>
-    <hecho>
+    </hecho>
     <hecho descripcion="Se funda Google">
         <fecha>
             <dia>4</dia>
             <mes>9</mes>
             <año>1998</año>
         </fecha>
-    <hecho>
+    </hecho>
     <hecho descripcion="Se funda Facebook">
         <fecha>
             <dia>4</dia>
             <mes>2</mes>
             <año>2004</año>
         </fecha>
-    <hecho>
-<hechos>
+    </hecho>
+</hechos>
             
             
