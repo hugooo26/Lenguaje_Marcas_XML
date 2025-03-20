@@ -6,7 +6,7 @@ Ejercicio: [XML Básico I]
 -->
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Ejercicio 1: Ciudades -->
+<!-- Ej-1: Ciudades-->
 <ciudades>
     <ciudad continente="Asia">
         <nombre>Nueva Delhi</nombre>
@@ -20,4 +20,4 @@ Ejercicio: [XML Básico I]
         <nombre>El Cairo</nombre>
         <pais>Egipto</pais>
     </ciudad>
-</ciudades>
+<ciudades>
