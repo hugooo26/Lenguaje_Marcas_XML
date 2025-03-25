@@ -1,1 +1,1 @@
-Creo una estrucutura de arbol para poner cada ciudad y hago lo mismo en las demás ciudades
+Creo una estrucutura de arbol para poner cada página y hago lo mismo en las demás.

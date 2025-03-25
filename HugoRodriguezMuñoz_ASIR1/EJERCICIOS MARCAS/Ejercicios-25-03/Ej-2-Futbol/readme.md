@@ -1,1 +1,1 @@
-Hago la estructura en arbol para poner los hechos y copio la estructura para los siguientes hechos históricos.
+Hago la estructura en arbol para poner los equipos y jugadores y copio la estructura para los siguientes hechos históricos.

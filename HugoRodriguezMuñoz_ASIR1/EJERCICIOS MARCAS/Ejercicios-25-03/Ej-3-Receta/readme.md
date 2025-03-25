@@ -1,1 +1,1 @@
-Pongo cada libro con su nombre, autor y año al lado y hago lo mismo con los demás.
+Hago la estrucutura con los ingredientes y pasos sencilamente
