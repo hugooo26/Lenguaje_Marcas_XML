@@ -6,30 +6,35 @@ Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
 
-<!-- Ej-2: Hechos-->
-<hechos>
-    <hecho descripcion="IBM da a conocer el PC">
-        <fecha>
-            <dia>12</dia>
-            <mes>8</mes>
-            <año>1981</año>
-        </fecha>
-    </hecho>
-    <!--Estructura del primer hecho, cambio información y hago los siguientes siguiendo el modelo-->
-    <hecho descripcion="Se funda Google">
-        <fecha>
-            <dia>4</dia>
-            <mes>9</mes>
-            <año>1998</año>
-        </fecha>
-    </hecho>
-    <hecho descripcion="Se funda Facebook">
-        <fecha>
-            <dia>4</dia>
-            <mes>2</mes>
-            <año>2004</año>
-        </fecha>
-    </hecho>
-</hechos>
-            
+<!-- Ej-2: Fútbol -->
+<equipos>
+  <equipo>
+    <nombre>Barça</nombre>
+    <ciudad>Barcelona</ciudad>
+    <jugadores>
+      <jugador posicion="Defensa">
+        <nombre>Alejandro Balde</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+      <jugador posicion="Delantero">
+        <nombre>Ansu Fati</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+  <equipo>
+    <nombre>Real Betis Balompié</nombre>
+    <ciudad>Sevilla</ciudad>
+    <jugadores>
+      <jugador posicion="Defensa">
+        <nombre>Marc Bartra</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+      <jugador posicion="Delantero">
+        <nombre>Anthony</nombre>
+        <nacionalidad>Brasil</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+</equipos>
             
