@@ -1,0 +1,1 @@
+Hago la estructura en arbol para poner los hechos y copio la estructura para los siguientes hechos históricos.

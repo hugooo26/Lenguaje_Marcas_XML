@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Hugo Rodríguez Muñoz]
+Curso: [1ºASIR]
+Fecha: [20/03/2025]
+Ejercicio: [XML Básico I]
+-->
+
+<!-- Ej-1: Ciudades-->
+<ciudades>
+    <ciudad continente="Asia">
+        <nombre>Nueva Delhi</nombre>
+        <pais>India</pais>
+    </ciudad>
+    <!--Hago la estructura de la primera ciudad y sigo la estrucutra en las demás-->
+    <ciudad continente="Europa">
+        <nombre>Lisboa</nombre>
+        <pais>Portugal</pais>
+    </ciudad>
+    <ciudad continente="África">
+        <nombre>El Cairo</nombre>
+        <pais>Egipto</pais>
+    </ciudad>
+</ciudades>
