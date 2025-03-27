@@ -1,1 +1,0 @@
-Creo una estructura en arbol para cada empleado siguiendo el modelo del ejercicio, completo con datos y hago lo mismo con los demás empleados.

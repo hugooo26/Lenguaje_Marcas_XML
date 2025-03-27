@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Hugo Rodríguez Muñoz]
+Curso: [1ºASIR]
+Fecha: [20/03/2025]
+Ejercicio: [XML Básico I]
+-->
+
+ <!-- Ej:1 Software  -->
+<catalogo>
+    <os:software>
+        <os:nombre>Windows 11</os:nombre>
+        <os:version>22H2</os:version>
+        <os:desarrollador>Microsoft</os:desarrollador>
+        <os:enlace>https://www.microsoft.com</os:enlace>
+    </os:software>
+    
+    <office:software>
+        <office:nombre>Microsoft Word</office:nombre>
+        <office:version>2021</office:version>
+        <office:desarrollador>Microsoft</office:desarrollador>
+        <office:enlace>https://www.microsoft.com</office:enlace>
+    </office:software>
+</catalogo>
