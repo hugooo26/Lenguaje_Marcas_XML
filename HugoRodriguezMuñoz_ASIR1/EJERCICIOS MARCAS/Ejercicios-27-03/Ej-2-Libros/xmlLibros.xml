@@ -6,35 +6,25 @@ Fecha: [20/03/2025]
 Ejercicio: [XML Básico I]
 -->
 
-<!-- Ej-2: Fútbol -->
-<equipos>
-  <equipo>
-    <nombre>Barça</nombre>
-    <ciudad>Barcelona</ciudad>
-    <jugadores>
-      <jugador posicion="Defensa">
-        <nombre>Alejandro Balde</nombre>
-        <nacionalidad>España</nacionalidad>
-      </jugador>
-      <jugador posicion="Delantero">
-        <nombre>Ansu Fati</nombre>
-        <nacionalidad>España</nacionalidad>
-      </jugador>
-    </jugadores>
-  </equipo>
-  <equipo>
-    <nombre>Real Betis Balompié</nombre>
-    <ciudad>Sevilla</ciudad>
-    <jugadores>
-      <jugador posicion="Defensa">
-        <nombre>Marc Bartra</nombre>
-        <nacionalidad>España</nacionalidad>
-      </jugador>
-      <jugador posicion="Delantero">
-        <nombre>Anthony</nombre>
-        <nacionalidad>Brasil</nacionalidad>
-      </jugador>
-    </jugadores>
-  </equipo>
-</equipos>
+<!-- Ej-2: Libros -->
+<Review>
+  <title>Book Review</title>
+  <body>
+    <h1>Introducción a XML</h1>
+    <table>
+      <tr align="center">
+        <td>Author</td>
+        <td>Price</td>
+        <td>Pages</td>
+        <td>Date</td>
+      </tr>
+      <tr align="left">
+        <td>Simon St. Laurent</td>
+        <td>31.98</td>
+        <td>352</td>
+        <td>1998/01</td>
+      </tr>
+    </table>
+  </body>
+</Review>
             
