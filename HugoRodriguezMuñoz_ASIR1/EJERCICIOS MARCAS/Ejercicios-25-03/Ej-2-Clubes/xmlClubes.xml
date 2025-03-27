@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Hugo Rodríguez Muñoz]
+Curso: [1ºASIR]
+Fecha: [20/03/2025]
+Ejercicio: [XML Básico I]
+-->
+
+<!-- Ej 4: Equipos-->
+<equipos>
+  <equipo>
+    <nombre>Barça</nombre>
+    <ciudad>Barcelona</ciudad>
+    <jugadores>
+      <jugador posicion="Defensa">
+        <nombre>Alejandro Balde</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+      <jugador posicion="Delantero">
+        <nombre>Ansu Fati</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+  <equipo>
+    <nombre>Real Betis Balompié</nombre>
+    <ciudad>Sevilla</ciudad>
+    <jugadores>
+      <jugador posicion="Defensa">
+        <nombre>Marc Bartra</nombre>
+        <nacionalidad>España</nacionalidad>
+      </jugador>
+      <jugador posicion="Delantero">
+        <nombre>Anthony</nombre>
+        <nacionalidad>Brasil</nacionalidad>
+      </jugador>
+    </jugadores>
+  </equipo>
+</equipos>

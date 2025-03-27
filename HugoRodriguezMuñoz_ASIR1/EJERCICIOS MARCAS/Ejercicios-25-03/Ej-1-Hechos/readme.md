@@ -1,0 +1,1 @@
+Hago la estrucutura con cada hecho importante y sigo lo mismo en los demás.

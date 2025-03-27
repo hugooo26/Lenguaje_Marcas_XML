@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Hugo Rodríguez Muñoz]
+Curso: [1ºASIR]
+Fecha: [20/03/2025]
+Ejercicio: [XML Básico I]
+-->
+
+<!-- Ej 4: Alumnos-->
+<curso>
+  <nombre>Lenguajes de Marcas</nombre>
+  <horas_semanales>4</horas_semanales>
+  <caracter>Obligatorio</caracter>
+  <inicio>2023-09-15</inicio>
+  <fin>2024-06-22</fin>
+  <alumnos>
+    <alumno>
+      <nombre>Ana Fernández Gutiérrez</nombre>
+      <dni>51623487V</dni>
+      <telefono>666544566</telefono>
+      <email>anafernandez@gmail.com</email>
+      <calle>C/ Amatista, 14, 28905 Getafe (Madrid)</calle>
+      <notas>No disponible</notas>
+      <faltas>No disponible</faltas>
+    </alumno>
+    <alumno>
+      <nombre>Carlos López Sánchez</nombre>
+      <dni>52369874B</dni>
+      <telefono>666455477</telefono>
+      <email>carloslopez@gmail.com</email>
+      <calle>C/ Ópalo, 15, 28905 Getafe (Madrid)</calle>
+      <notas>Apto</notas>
+      <faltas>0</faltas>
+    </alumno>
+  </alumnos>
+</curso>
