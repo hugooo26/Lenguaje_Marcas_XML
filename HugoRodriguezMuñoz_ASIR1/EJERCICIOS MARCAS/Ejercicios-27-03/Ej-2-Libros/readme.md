@@ -1,1 +1,1 @@
-Hago la estructura en arbol para poner los equipos y jugadores y copio la estructura para los siguientes hechos históricos.
+Edito el código del ejemplo para hacer una estrucutura sencilla en árbol para los libros.

@@ -1,1 +1,1 @@
-Creo una estrucutura de arbol para poner cada página y hago lo mismo en las demás.
+Sigo las instrucciones para poner los softwares y pongo sus ejemplos con la estructura en árbol.
